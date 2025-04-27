@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Elton Marcelino de Lima**
 
-![Profile Views](https://komarev.com/ghpvc/?username=<USERNAME>&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Elton-M-deLima&style=flat-square)
 
 ## 🚀 Sobre mim
 
@@ -55,6 +55,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-marcelino-de-lima)
 
 📧 scutulatus@gmail.com • ☎️ +55 65 98447‑0156 • 📍 Cuiabá‑MT, Brasil
-
-<sub>Substitua `<USERNAME>` pelo seu usuário GitHub para ativar estatísticas e contadores.</sub>
-
