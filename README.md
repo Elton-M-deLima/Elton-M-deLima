@@ -8,7 +8,7 @@
 - ⚙️ **DevOps / IaC**: Jenkins • Terraform • Ansible • Docker • NixOS • Git Flow.
 - 🧑‍💻 **Full‑Stack**: Java / Spring Boot · Vue 3 / Vite · Python / Django.
 - 🛰️ Pesquisador em **Visão Computacional** e animação 3D automática.
-- 📈 **Gerente de Projeto** do curso “Desenvolvimento Web com Python” (+600 inscritos, 70 % concluintes) @ Cyber E‑dux.
+- 📈 **Gerente de Projeto** do curso “Desenvolvimento Web com Python” @ Cyber E‑dux.
 - 🌱 Aprendendo: SonarQube, Playwright, práticas avançadas de acessibilidade.
 
 > “Tecnologia deve ser ponte, não barreira.”
